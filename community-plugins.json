@@ -17253,5 +17253,12 @@
     "author": "d7sd6u",
     "description": "Add file's ftags as chips at the top of the markdown view.",
     "repo": "d7sd6u/obsidian-viewer-ftags"
+},
+{
+    "id": "robius-ai-assistant",
+    "name": "ROBIUS AI Assistant",
+    "author": "VAinBlade09",
+    "description": "ROBIUS AI assistant for analyzing and generating responses based on your notes",
+    "repo": "VAinBlade09/RobiusAI"
 }
 ]
